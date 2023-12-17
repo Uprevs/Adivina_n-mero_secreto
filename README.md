@@ -1,0 +1,1 @@
+Eu, tuve que cambiar el codigo en la comparacion del numero adivinado con el número secreto, pasé el "===" a un "==" porque cuando escribia el numero correcto en la consola me decia que estaba mal en lugar de terminar el juego.
